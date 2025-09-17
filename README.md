@@ -49,8 +49,10 @@
 
 - [포트폴리오](https://github.com/somdawn/portfolio-site)  
 - [제로 웨이스트 쇼핑몰 'Re:Loop' (개인)](https://github.com/somdawn/react-todo)  
-- ['2025 공예주간' 리뉴얼 (팀)](https://github.com/somdawn/uiux-playground)  
-- ['리움 미술관' 리뉴얼 (팀)](https://github.com/somdawn/design-system-demo)
+- ['2025 공예주간' 리뉴얼 (4인 1팀, 기여도 30%)](https://github.com/somdawn/uiux-playground)
+  > header, footer, 서브 페이지 중 '커뮤니티', '보도자료', 'FAQ' 제작
+- ['리움 미술관' 리뉴얼 (5인 1팀, 기여도 30%)](https://github.com/somdawn/design-system-demo)
+  > footer, 서브 페이지 중 '방문안내' 모든 서브 페이지(4page), '프로그램' 제작
 - ['ST Cube' 디자인 리뉴얼 ('한화 리츠' 디자인 적용, 개인)](https://github.com/somdawn/design-system-demo) 
 
 ***
